@@ -1,5 +1,5 @@
 # findFileExtensionIcon
-NodeJs Package which returns [font-awesome icons](https://fontawesome.com/icons) `html` depending upon the file type.
+NodeJs Package which returns [font-awesome icons](https://fontawesome.com/icons) `html` depending upon the file extension.
 
 ## Installation
 
