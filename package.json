@@ -4,7 +4,7 @@
   "description": "npm package which gives fontawesome icons html depending upon the file extension",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "author": "amjad489 <amjadhussain3751@gmail.com>",
   "license": "ISC",
