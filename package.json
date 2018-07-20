@@ -1,0 +1,24 @@
+{
+  "name": "filetypeicons",
+  "version": "1.0.0",
+  "description": "npm package which gives fontawesome icons html depending upon the file extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amjad489 <amjadhussain3751@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjad489/findFileExtensionIcon.git"
+  },
+  "keywords": [
+    "nodejs",
+    "filetypeicons",
+    "file-extensions"
+  ],
+  "bugs": {
+    "url": "https://github.com/amjad489/findFileExtensionIcon/issues"
+  },
+  "homepage": "https://github.com/amjad489/findFileExtensionIcon#readme"
+}
