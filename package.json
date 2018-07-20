@@ -1,6 +1,6 @@
 {
   "name": "filetypeicons",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "npm package which gives fontawesome icons html depending upon the file extension",
   "main": "index.js",
   "scripts": {
