@@ -1,2 +1,2 @@
-let fileext = require('./index');
-console.log(fileext("/path/to/media.wav"));
+let findFileExtIcon = require('./index');
+console.log(findFileExtIcon("/path/to/media.wav"));
