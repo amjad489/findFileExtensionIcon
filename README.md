@@ -2,7 +2,7 @@
 
 [![Support Node of LTS](https://img.shields.io/badge/node-LTS-brightgreen.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/npm/v/filetypeicons.svg)](https://www.npmjs.com/package/filetypeicons)
-[![Build Status](https://travis-ci.org/amjad489/findFileExtensionIcon.png)](https://travis-ci.org/amjad489/findFileExtensionIcon#)
+[![Travis (.org)](https://img.shields.io/travis/amjad489/findFileExtensionIcon.svg)](https://travis-ci.org/amjad489/findFileExtensionIcon)
 [![npm](https://img.shields.io/npm/dt/filetypeicons.svg)](https://www.npmjs.com/package/filetypeicons)
 
 
