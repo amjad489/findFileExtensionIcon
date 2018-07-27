@@ -1,8 +1,10 @@
 # findFileExtensionIcon
 
 [![Support Node of LTS](https://img.shields.io/badge/node-LTS-brightgreen.svg)](https://nodejs.org/)
-[![npm version](https://badge.fury.io/js/filetypeicons.svg)](https://badge.fury.io/js/filetypeicons)
+[![npm](https://img.shields.io/npm/v/filetypeicons.svg)](https://www.npmjs.com/package/filetypeicons)
 [![Build Status](https://travis-ci.org/amjad489/findFileExtensionIcon.png)](https://travis-ci.org/amjad489/findFileExtensionIcon#)
+[![npm](https://img.shields.io/npm/dt/filetypeicons.svg)](https://www.npmjs.com/package/filetypeicons)
+
 
 
 NodeJs Package which returns [font-awesome icons](https://fontawesome.com/icons) `html` depending upon the file extension.
